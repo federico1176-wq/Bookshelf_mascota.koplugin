@@ -1,0 +1,1 @@
+Plugin para KOReader que permite una mascota de Simple UI con algunos agregados, como juegos y un tamagotchi, como un micromódulo de bookshelf. Está solo en español y habla como uruguayo, porque lo hice lo más familiar para mí posible. Tiene más IA que las recomendaciones de YouTube y es una copia de muchas cosas.
